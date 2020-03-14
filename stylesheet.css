@@ -1,11 +1,11 @@
 body {
-background-color: black;
+  background-color: black;
 }
 
 .headerContainer {
- background: rgb(4,8,45);
-background: linear-gradient(90deg, rgba(4,8,45,1) 0%, rgba(11,116,233,0.9808123078332895) 100%);
-background-image: url(https://cdn.pixabay.com/photo/2019/06/03/10/51/texture-4248634_960_720.jpg);
+  background: rgb(4,8,45);
+  background: linear-gradient(90deg, rgba(4,8,45,1) 0%, rgba(11,116,233,0.9808123078332895) 100%);
+  background-image: url(https://cdn.pixabay.com/photo/2019/06/03/10/51/texture-4248634_960_720.jpg);
 }
 
 .headerContainer ul li {
@@ -15,10 +15,6 @@ background-image: url(https://cdn.pixabay.com/photo/2019/06/03/10/51/texture-424
     padding: 15px;
     color: rgb(129, 128, 126);
 
-}
-
-a {
-    color: rgb(114, 114, 116);
 }
 
 a {
@@ -48,11 +44,11 @@ h1 {
 }
 
 .containerPic {
-  margin: 80px 45px 45px 45px;
+  margin: 80px 45px 45px 0px;
 }
 
 p {
-color:rgb(114, 114, 116);
+  color:rgb(114, 114, 116);
 }
 
 .pFirstLetter::first-letter {
@@ -60,3 +56,32 @@ color:rgb(114, 114, 116);
     font-size: 30px;
 }
 
+.footerImage {
+    width: 300px;
+}
+
+.footerContainer {
+  background-image: url(https://i.pinimg.com/736x/06/6a/35/066a353e307536a84844d7280c1215ef.jpg);
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 250px;
+}
+
+/*.headerImage {
+width: 1366; 
+height: 768;
+}
+*/
+.adress {
+    color: rgb(95, 97, 93);
+   
+}
+
+.tel {
+      color: rgb(95, 97, 93);
+
+}
+
+.email {
+     color: rgb(95, 97, 93);
+}
