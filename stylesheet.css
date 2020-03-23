@@ -65,6 +65,8 @@ p {
   background-position: right;
   background-repeat: no-repeat;
   height: 250px;
+ padding-top: 79px;
+ margin-left: 250px;
 }
 
 /*.headerImage {
@@ -78,10 +80,32 @@ height: 768;
 }
 
 .tel {
-      color: rgb(95, 97, 93);
+   color: rgb(95, 97, 93);
 
 }
 
 .email {
-     color: rgb(95, 97, 93);
+  color: rgb(95, 97, 93);
+}
+
+ion-icon {
+  font-size: 25px;
+  color: white;
+}
+
+
+.icons a {
+  list-style: none;
+  margin: 20px;
+}
+
+.icons {
+  font-size: 45px;
+  color: rgb(95, 97, 93);
+}
+
+.icons:hover {
+  color: white;
+  transition: all ease 0.7s;
+  
 }
