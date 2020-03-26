@@ -46,18 +46,133 @@ h1 {
 }
 
 .indexContainer {
-  background-image: url(https://c.wallhere.com/photos/0a/43/1920x1200_px_cross_Processing_Dandelion_Dark_Depth_Of_Field_nature-643650.jpg!d);
   background-repeat: no-repeat;
-  height: 480px;
- width: 1300 px;
-
+  width: 95%;
+  height: 600px;
+  background-image: url(https://cdn.pixabay.com/photo/2018/02/22/19/03/dandelion-3173706_960_720.jpg);
+   background-position: right;
 }
 
+.imgIndex {
+  float: right;
+}
+
+
+
+h1 {
+  margin-top: 20px;
+ font-size: 60px;
+ color: white;
+}
+
+.wordNature {
+    margin-left: 370px;
+    margin-top: 30px;
+    font-size: 70px;
+    color: white;
+}
+
+.wordOf {
+  margin-left: 280px;
+font-size: 40px;
+color: white;
+}
+
+.wordConnect {
+ margin-left: 160px;
+ font-size: 41px;
+ margin-top: -240px;
+}
+
+.wordSilence {
+  writing-mode: vertical-lr;
+  margin-left: 330px;
+  margin-top: -110px;
+  font-size: 60px;
+}
+
+.wordHome {
+ margin-left: 315;
+ margin-top: 72px;
+ font-size: 50px;
+}
+
+.wordArt {
+ margin-left: 549px;
+ font-size: 43px;
+ margin-top: -165px;
+ position: absolute;
+}
+
+.wordUniverse {
+ margin-top: -207px;
+font-size: 40px;
+position: absolute;
+margin-left: 452px;
+}
+
+.wordMacro {
+     position: absolute;
+    margin-top: -345px;
+    writing-mode: vertical-lr;
+    font-size: 35px;
+    margin-left: 410px;
+}
+
+.wordCons {
+  position: absolute;
+  margin-top: -267px;
+ margin-left: 450px;
+ font-size: 60px;
+ color: #4a5353;
+}
+
+.wordExistence {
+   position: absolute;
+ writing-mode: vertical-lr;
+ margin-left: 600px;
+ font-size: 50;
+ margin-top: -180px;
+ color: #36882b;
+}
+
+.wordWhole {
+ position: absolute;
+ margin-left: 416px;
+ margin-top: -169px;
+ font-size: 43px;
+}
+
+.wordAir {
+ position: absolute;
+ margin-left: 210px;
+ font-size: 45px;
+ margin-top: -235px;
+}
+
+.wordOcean {
+  position: absolute;
+  writing-mode: vertical-lr;
+  margin-left: 100px;
+ font-size: 55px;
+ margin-top: -265px;
+}
+
+
+.wordUnique {
+  position: absolute;
+ writing-mode: vertical-lr;
+ margin-left: 162px;
+ font-size: 35px;
+ margin-top: -220px; 
+  color: #4a5353
+}
 .pic1 {
     width: 270;
     height: 330px;
     float: left;
     box-sizing: border-box;
+    margin-top: 350px;
 }
 
 .containerPic {
